@@ -1,0 +1,8 @@
+{
+  "name": "TranscribeX",
+  "description": "AI-powered audio transcription, language detection, and audio analysis tool built with Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
